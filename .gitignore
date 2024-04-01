@@ -1,0 +1,9 @@
+.vscode/
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+database/
+wp-config.php
+wp-content/updraft/
+wp-content/uploads/
